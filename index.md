@@ -12,8 +12,7 @@ Not to mention that I learned how to display a message on the terminal so that t
 
 Lab #11, Part-2
 I enjoyed lab 11 part-2 because although it was a simple code,
-it still was difficult trying to use the included files in order to set up a little guessing game where the user has 4 tries to guess.
-Seeing how typing the wrong return function can really change a lot of the expected output.
+it still was difficult trying to use the included files in order to set up a little guessing game where the user has 4 tries to guess.Seeing how typing the wrong return function can really change a lot of the expected output.
 My favorite part was learning how to use simple line arguments more efficiently since most of the code was short constructors or functions.
 
 Lab #7, Part-1
