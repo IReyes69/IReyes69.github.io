@@ -1,5 +1,5 @@
 
- #Isarael Reyes Portfolio
+ #Israel Reyes Portfolio
 
  I am a first year computer science major here at Cal State Fullerton planning to graduate in the year 2028
 
